@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_Mykyta_Zherdiev", "Lab1_Mykyta_Zherdiev.csproj", "{2A09419C-2E9A-46FF-955D-B12C2402F8BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05921D17-E614-426A-BB01-C45BAED8A3CC}"
+	ProjectSection(SolutionItems) = preProject
+		..\Lab1_MykytaZherdiev\Debug\IFU-9_ZherdeivM_L1_dat_1.json = ..\Lab1_MykytaZherdiev\Debug\IFU-9_ZherdeivM_L1_dat_1.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A09419C-2E9A-46FF-955D-B12C2402F8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A09419C-2E9A-46FF-955D-B12C2402F8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A09419C-2E9A-46FF-955D-B12C2402F8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A09419C-2E9A-46FF-955D-B12C2402F8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04532839-075F-4268-9882-4A0D877A221E}
+	EndGlobalSection
+EndGlobal

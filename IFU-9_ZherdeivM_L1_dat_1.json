@@ -1,0 +1,139 @@
+{
+  "people": [
+    {
+      "name": "Berger",
+      "year": 1,
+      "grade": 0.3241
+    },
+    {
+      "name": "Tammi",
+      "year": 1,
+      "grade": 3.8368
+    },
+    {
+      "name": "Deana",
+      "year": 8,
+      "grade": 8.2059
+    },
+    {
+      "name": "Tamra",
+      "year": 10,
+      "grade": -1.6711
+    },
+    {
+      "name": "Etta",
+      "year": 4,
+      "grade": 2.5642
+    },
+    {
+      "name": "Garcia",
+      "year": 7,
+      "grade": 5.6055
+    },
+    {
+      "name": "Rollins",
+      "year": 8,
+      "grade": 7.5695
+    },
+    {
+      "name": "Weber",
+      "year": 2,
+      "grade": 3.0022
+    },
+    {
+      "name": "Crystal",
+      "year": 10,
+      "grade": 5.8461
+    },
+    {
+      "name": "Bradshaw",
+      "year": 3,
+      "grade": 1.1822
+    },
+    {
+      "name": "Duncan",
+      "year": 3,
+      "grade": 0.8676
+    },
+    {
+      "name": "Charmaine",
+      "year": 9,
+      "grade": 5.2906
+    },
+    {
+      "name": "Ortiz",
+      "year": 0,
+      "grade": 8.2206
+    },
+    {
+      "name": "Alford",
+      "year": 5,
+      "grade": 1.1065
+    },
+    {
+      "name": "Aisha",
+      "year": 3,
+      "grade": 3.1566
+    },
+    {
+      "name": "Nadia",
+      "year": 2,
+      "grade": 3.2951
+    },
+    {
+      "name": "Molly",
+      "year": 2,
+      "grade": 8.5887
+    },
+    {
+      "name": "Jackie",
+      "year": 8,
+      "grade": 3.4613
+    },
+    {
+      "name": "Trudy",
+      "year": 0,
+      "grade": 4.1493
+    },
+    {
+      "name": "Yvette",
+      "year": 9,
+      "grade": 5.8205
+    },
+    {
+      "name": "Nelda",
+      "year": 9,
+      "grade": 6.8689
+    },
+    {
+      "name": "Cardenas",
+      "year": 2,
+      "grade": 5.0928
+    },
+    {
+      "name": "Allie",
+      "year": 0,
+      "grade": 7.63
+    },
+    {
+      "name": "Dollie",
+      "year": 5,
+      "grade": 0.4478
+    },
+    {
+      "name": "Mcpherson",
+      "year": 4,
+      "grade": 6.967
+    },
+    {
+      "name": "Carson",
+      "year": 2,
+      "grade": 2.6962
+    },
+    {
+      "name": "Jayne",
+      "year": 3,
+      "grade": 4.5766
+    }
+  ]
+}
